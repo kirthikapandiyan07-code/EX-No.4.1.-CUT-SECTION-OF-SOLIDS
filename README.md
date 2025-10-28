@@ -2,7 +2,7 @@
 ## DATE:
 
 ## AIM
-To create the solid model from given drawing and section the solid model
+To create the solid model from given drawing and section the solid model,
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
